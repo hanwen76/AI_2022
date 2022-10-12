@@ -27,3 +27,8 @@ MAE的做法是：随机遮盖输入图片的子块，然后重建丢失像素�
 - Markov Decision Processes
 - Bayesian Network
 - Reinforcement Learning
+## variable-based models
+- constarint satisfaction problems (e.g. Sudoku,scheduling)
+- Bayesian networks -- soft dependencies 
+## Logit
+- Digest heterogenous information & Reason deeply with that information
